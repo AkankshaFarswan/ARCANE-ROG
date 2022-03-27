@@ -15,5 +15,5 @@ Step 2: Run_leiden_RGL.R- It will generate the clonal tree using the adjacency m
 Citation policy:
 Please cite the following paper if you use the code in your analysis-
 
-Farswan A, Gupta R, and Gupta A, "ARCANE-ROG: Algorithm for Reconstruction of Cancer Evolution from single-cell data using Robust Graph Learning," Journal of Biomedical Informatics, Elsevier, Vol 2, May 2022.
+Farswan A, Gupta R, and Gupta A, "ARCANE-ROG: Algorithm for Reconstruction of Cancer Evolution from single-cell data using Robust Graph Learning," Journal of Biomedical Informatics, Elsevier, Vol 129, May 2022.
 
